@@ -35,7 +35,6 @@
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/03cec7a0-116b-4da3-b11b-2524e06d5a39)
-
 ### Name: VIJAY R
 ### Register Number: 212223240178
 
