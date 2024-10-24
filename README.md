@@ -33,6 +33,10 @@
 ## Input:
 ![image](https://github.com/user-attachments/assets/0fae4e7d-a27d-4fbb-998a-287cb5ba6db2)
 
+
+
+
+
 ### Output:
 ![image](https://github.com/user-attachments/assets/03cec7a0-116b-4da3-b11b-2524e06d5a39)
 ### Name: VIJAY R
